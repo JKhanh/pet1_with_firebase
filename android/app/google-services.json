@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "536099477403",
+    "firebase_url": "https://pet-flutter.firebaseio.com",
+    "project_id": "pet-flutter",
+    "storage_bucket": "pet-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536099477403:android:18e7f2923db49c1480333e",
+        "android_client_info": {
+          "package_name": "com_jonas_pet.com_jonas_pet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536099477403-s3nt4btf3ua53chtfvcjdqjo4svt6luf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCplS-TpkWbsdjH2njzvKv6TsiGHiQihig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536099477403-s3nt4btf3ua53chtfvcjdqjo4svt6luf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
